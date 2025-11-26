@@ -4,6 +4,6 @@ Autodiscovery is a system integrator in mobile robotics with the goal to integra
 
 We offer solutions for both indoors and outdoors mobile automation with many robots having high waterproof rating up to IP67. <br>
 
-| Project               | Description |
--------------------------
+| Project                                                                   | Description                                                  |                                                              
+| :---:                                                                     |   :---:
 | [Cerebro-control](https://github.com/Autodiscovery/Cerebro-Control)       | Teleoperation of the Unitree H1 humanoid using a VR headset. |
